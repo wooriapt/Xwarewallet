@@ -18,9 +18,9 @@ Directory of token images for ERC20 contracts
 - size: `256px by 256px`  
 
 ## Steps
-1) Press on `Fork` in the top right corner.  
-2) Upload an image in `images/` folder on your own fork and commit changes.  
-3) Press on `New Pull Request` on your own fork page and submit it!  
+1) Press on `Fork` in the top right corner.    
+2) Upload an image in `images/` folder on your own fork and commit changes.    
+3) Press on `New Pull Request` on your own fork page and submit it!    
 
 ### Youtube: Upload ERC20 Token Image to Trust Wallet:
 
