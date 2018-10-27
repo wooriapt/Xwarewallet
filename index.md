@@ -5,8 +5,8 @@ layout: default
 
 **A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
-### Project: Loyalty Rewards Programs   
-[[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
+### Project:    
+[[궁금한 내용 묻고 답하기]](https://)   
 
 --------------------------
 Directory of token images for ERC20 contracts
