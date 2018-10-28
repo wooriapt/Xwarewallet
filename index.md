@@ -11,9 +11,9 @@ layout: default
 --------------------------
 Directory of token images for ERC20 contracts
 
-# Add custom image:
+# Add custom symbol image:
 ## Requirements
-- name of the file in lowercase:
+- name of the file in lowercase: Contract Address.png  
 - format: `PNG`  
 - size: `256px by 256px`  
 
