@@ -4,16 +4,11 @@ layout: default
 ---
 
 
-
-
-
 # Environmental Blockchain Incentive Solution(EBIS)
- ### White Paper 
    
- 2018.11.  
 
 
-
+<!--
 - [Environmental Blockchain Incentive Solution(EBIS)](#environmental-blockchain-incentive-solution-ebis-)
     + [White Paper](#white-paper)
   * [Environmental Blockchain Incentive Solution Foundation](#environmental-blockchain-incentive-solution-foundation)
@@ -94,7 +89,7 @@ layout: default
 
 ------------------------------------------------------------------------------
 
-
+-->
 
 
 
