@@ -20,6 +20,8 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 
 [![_config.yml]({{ site.baseurl }}/assets/img/slack.PNG)](https://xwarewallet.slack.com/messages/CDR6PPUTZ/)   
 [#Slack Channels](https://xwarewallet.slack.com/messages/CDR6PPUTZ/)
+[![_config.yml]({{ site.baseurl }}/assets/img/join_team_channel.png)](https://xwarewallet.slack.com/messages/CDR6PPUTZ/)
+[#Slack Channels](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 
 -------------------------------
 <!--
