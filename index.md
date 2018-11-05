@@ -1,8 +1,11 @@
 ---
+title: Environmental Blockchain Incentive Solution White Paper
 layout: default
+category: [issues]
+date: 2018-11-06
+description: Environmental Blockchain Incentive Solution(EBIS)
 
 ---
-
 
 # Environmental Blockchain Incentive Solution(EBIS)
    
