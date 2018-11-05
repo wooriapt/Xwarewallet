@@ -8,7 +8,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 ---
 
 # Environmental Blockchain Incentive Solution(EBIS)
- **[소문내기]**  
+ **[Invite Friends]**  
 여러분의 단 한번씩의 조회나 찾기가  
 [Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
 
@@ -21,7 +21,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 [![_config.yml]({{ site.baseurl }}/assets/img/slack.PNG)](https://xwarewallet.slack.com/messages/CDR6PPUTZ/)   
 [#Slack Channels](https://xwarewallet.slack.com/messages/CDR6PPUTZ/)
 
-
+-------------------------------
 <!--
 - [Environmental Blockchain Incentive Solution(EBIS)](#environmental-blockchain-incentive-solution-ebis-)
     + [White Paper](#white-paper)
