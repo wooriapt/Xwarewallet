@@ -105,7 +105,8 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 ------------------------------------------------------------------------------
 
 -->
-
+[More](./Procedure.md)
+      
 ## Environmental Blockchain Incentive Solution Foundation
 
 ### Prologue 우리가 해결하려는 문제 
