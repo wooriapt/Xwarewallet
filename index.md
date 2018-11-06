@@ -23,7 +23,9 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 [#Slack Channels](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 
 -------------------------------
+
 [More whitepaper agenda](./whitepaper agenda.md)
+
 ----------------------------------------
 
 ## Environmental Blockchain Incentive Solution Foundation
