@@ -1017,4 +1017,5 @@ EBIS가 소유한 자전거 외에도 사용자는 EBIS 디지털 자산 등록 
 1. KEI , 환경·경제 통합분석을 위한 환경가치 종합연구, 2016.10  사업보고서 
 
 ------------------------------
-
+- Communication Channels    
+![_config.yml]({{ site.baseurl }}/assets/img/sns-channels.PNG) 
