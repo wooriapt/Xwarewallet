@@ -6,6 +6,7 @@ date: 2018-11-06
 description: Environmental Blockchain Incentive Solution(EBIS)
 
 ---
+Xwarewallet EBIS  
 
 # <span style="color:navy blue">Environmental Blockchain Incentive Solution EBIS</span>
 - Invite Friends    
