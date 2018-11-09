@@ -7,7 +7,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 
 ---
 
-# Environmental Blockchain Incentive Solution EBIS
+# <span style="color:navy blue">Environmental Blockchain Incentive Solution EBIS</span>
 - Invite Friends    
 여러분의 단 한번씩의 조회나 찾기가  
 [Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
@@ -33,7 +33,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 
 ### Prologue 우리가 해결하려는 문제 
 
-**‘사회적 비용’이란 무엇일까요?**  
+<span style="color:navy blue">**사회적 비용’이란 무엇일까요?**</span>  
 
 한 마디로 그것은 “어떤 개인이나 기업의 경제활동이 다른 경제 구성원들에게 뜻하지 않은 손실을 입히고도 
 그에 대한 정당한 대가를 치르지 않는 것”  입니다.
