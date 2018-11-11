@@ -6,6 +6,7 @@ date: 2018-11-06
 description: Environmental Blockchain Incentive Solution(EBIS)
 
 ---
+
 - Xwarewallet EBIS  
 
 # <span style="color:navy blue">Environmental Blockchain Incentive Solution EBIS</span>
@@ -876,8 +877,7 @@ EBIS가 소유한 자전거 외에도 사용자는 EBIS 디지털 자산 등록 
 ----------------------------------------------------
  
 ## 7. TEAM
-#### - Founder - https://www.facebook.com/search/async/profile_picture/?fbid=100000847521426&width=72&height=72 CEO 이인형
-https://scontent.ficn1-1.fna.fbcdn.net/v/t1.0-1/p160x160/1452592_828743160497260_7035343857478080286_n.jpg?_nc_cat=105&_nc_ht=scontent.ficn1-1.fna&oh=311068d577014b56fb5f1d555ae5c205&oe=5C7773AB
+#### - Founder - CEO 이인형
 
 - 학력	
    - 서울대 농학과 /계산통계학 부전공/연세대 경제학 석사/Kaist 전자정부 고위과정
