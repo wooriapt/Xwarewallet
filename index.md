@@ -20,8 +20,9 @@ description: Environmental Blockchain Incentive Solution(EBIS)
   [2]: http://www.naver.com/  "Naver"  
   [3]: http://www.daum.net/   "Daum Search"  
 
-- Communication Channels   
-[![_config.yml]({{ site.baseurl }}/assets/img/join_team_channel.png){: width="30" height="30"}](https://xwarewallet.slack.com/messages/C7RPB5D37/)
+- Communication Channels 
+
+[![_config.yml]({{ site.baseurl }}/assets/img/join_team_channel.png){: width="40" height="40"}](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 [#Join us on Slack](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 
 -------------------------------
