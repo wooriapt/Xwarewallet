@@ -21,7 +21,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
   [3]: http://www.daum.net/   "Daum Search"  
 
 - Communication Channels   
-[![_config.yml]({{ site.baseurl }}/assets/img/join_team_channel.png){: width="100" height="100"}](https://xwarewallet.slack.com/messages/C7RPB5D37/)
+[![_config.yml]({{ site.baseurl }}/assets/img/join_team_channel.png){: width="30" height="30"}](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 [#Join us on Slack](https://xwarewallet.slack.com/messages/C7RPB5D37/)
 
 -------------------------------
