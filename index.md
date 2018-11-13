@@ -7,7 +7,7 @@ description: Environmental Blockchain Incentive Solution(EBIS)
 
 ---
 
-- Xwarewallet EBIS  
+- Game Changer: Xwarewallet EBIS  
 
 # <span style="color:navy blue">Environmental Blockchain Incentive Solution EBIS</span>
 - Invite Friends    
